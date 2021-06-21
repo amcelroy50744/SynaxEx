@@ -1,0 +1,7 @@
+C:\Users\amcel\repos\SynaxEX\SynaxEx\SynaxEx\bin\Debug\SynaxEx.exe.config
+C:\Users\amcel\repos\SynaxEX\SynaxEx\SynaxEx\bin\Debug\SynaxEx.exe
+C:\Users\amcel\repos\SynaxEX\SynaxEx\SynaxEx\bin\Debug\SynaxEx.pdb
+C:\Users\amcel\repos\SynaxEX\SynaxEx\SynaxEx\obj\Debug\SynaxEx.csproj.AssemblyReference.cache
+C:\Users\amcel\repos\SynaxEX\SynaxEx\SynaxEx\obj\Debug\SynaxEx.csproj.CoreCompileInputs.cache
+C:\Users\amcel\repos\SynaxEX\SynaxEx\SynaxEx\obj\Debug\SynaxEx.exe
+C:\Users\amcel\repos\SynaxEX\SynaxEx\SynaxEx\obj\Debug\SynaxEx.pdb
